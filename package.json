@@ -21,6 +21,9 @@
 		"build": "npm run compile",
 		"exec": "$@"
 	},
+	"devDependencies": {
+		"typescript": "^4.0.3"
+	},
 	"publishConfig": {
 		"access": "public"
 	}
