@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.1.23
+
+### Patch Changes
+
+- typescript: ^4.1.5 -> ^4.2.2
+
 ## 1.1.22
 
 ### Patch Changes
