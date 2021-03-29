@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.1.27
+
+### Patch Changes
+
+- version bump
+
 ## 1.1.26
 
 ### Patch Changes
