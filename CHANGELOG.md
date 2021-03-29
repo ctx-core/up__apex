@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.1.26
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 1.1.25
 
 ### Patch Changes
