@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.1.29
+
+### Patch Changes
+
+- update dependencies
+
 ## 1.1.28
 
 ### Patch Changes
