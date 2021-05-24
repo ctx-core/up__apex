@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.2.1
+
+### Patch Changes
+
+- .gitignore: - \*.js
+
 ## 1.2.0
 
 ### Minor Changes
