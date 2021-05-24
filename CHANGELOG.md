@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.2.0
+
+### Minor Changes
+
+- dist,types directory: addressing typescript build issues
+
 ## 1.1.29
 
 ### Patch Changes
