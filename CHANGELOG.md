@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.2.3
+
+### Patch Changes
+
+- fix: build: clean up old build files in dist
+
 ## 1.2.2
 
 ### Patch Changes
