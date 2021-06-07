@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.2.4
+
+### Patch Changes
+
+- version bump: run build
+
 ## 1.2.3
 
 ### Patch Changes
