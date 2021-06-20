@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 1.2.7
+
+### Patch Changes
+
+- fix: deploying \*.js files
+
 ## 1.2.6
 
 ### Patch Changes
