@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.0
+
+### Major Changes
+
+- "type": "module": module npm type
+
 ## 1.2.8
 
 ### Patch Changes
