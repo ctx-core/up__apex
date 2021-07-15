@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.2
+
+### Patch Changes
+
+- fix: "type": "module"
+
 ## 2.0.1
 
 ### Patch Changes
