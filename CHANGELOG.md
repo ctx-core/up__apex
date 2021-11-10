@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.8
+
+### Patch Changes
+
+- compile using swc
+
 ## 2.0.7
 
 ### Patch Changes

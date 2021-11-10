@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/up__apex",
-	"version": "2.0.7",
+	"version": "2.0.8",
 	"description": "scripts to manage projects using up (https://up.docs.apex.sh/) on aws lambda or similar services",
 	"keywords": [
 		"ctx-core",
@@ -21,15 +21,13 @@
 		"build": ":",
 		"exec": "$@"
 	},
+	"dependencies": {},
 	"devDependencies": {
 		"typescript": "^4.4.4"
 	},
 	"publishConfig": {
 		"access": "public",
 		"cache": "~/.npm"
-	},
-	"dependencies": {
-		"esm": "^3.2.25"
 	},
 	"type": "module"
 }
