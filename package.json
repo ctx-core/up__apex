@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/up__apex",
-	"version": "2.0.10",
+	"version": "2.0.11",
 	"description": "scripts to manage projects using up (https://up.docs.apex.sh/) on aws lambda or similar services",
 	"keywords": [
 		"ctx-core",
@@ -13,10 +13,13 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/ctx-core/up__apex/issues"
+		"url": "https://github.com/ctx-core/up__apex.git"
 	},
 	"license": "Apache-2.0",
 	"author": "Brian Takita",
+	"exports": {
+		"./package.json": "./package.json"
+	},
 	"scripts": {
 		"build": ":",
 		"exec": "$@"
