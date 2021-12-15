@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.10
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 2.0.9
 
 ### Patch Changes
