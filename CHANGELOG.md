@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.12
+
+### Patch Changes
+
+- fix: build
+
 ## 2.0.11
 
 ### Patch Changes
