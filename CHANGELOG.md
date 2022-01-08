@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.14
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 2.0.13
 
 ### Patch Changes
