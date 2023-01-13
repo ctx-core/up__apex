@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.15
+
+### Patch Changes
+
+- rimraf: ^3.0.2 -> ^4.0.1
+
 ## 2.0.14
 
 ### Patch Changes
