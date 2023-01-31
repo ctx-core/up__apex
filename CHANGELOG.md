@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.17
+
+### Patch Changes
+
+- tsconfig.json: - importsNotUsedAsValues
+
 ## 2.0.16
 
 ### Patch Changes
