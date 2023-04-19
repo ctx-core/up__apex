@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.38
+
+### Patch Changes
+
+- fix: + \*.js files
+
 ## 2.0.37
 
 ### Patch Changes
