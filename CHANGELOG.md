@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.0.39
+
+### Patch Changes
+
+- version bump
+
 ## 2.0.38
 
 ### Patch Changes
