@@ -1,5 +1,20 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.0
+
+### Minor Changes
+
+- fix:types package.json exports
+- tsconfig:
+
+      "module": "ESNext"
+      "moduleResolution": "nodenext"
+      "target": "ESNext"
+
+### Patch Changes
+
+- package.json: - "svelte": "./src/index.js"
+
 ## 2.0.40
 
 ### Patch Changes

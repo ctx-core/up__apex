@@ -21,7 +21,7 @@ do
 esac
 done
 set -- "${POSITIONAL[@]}" # restore positional parameters
-WEB_DIR=${WEB_DIR:-"./packages/_web"}
+WEB_DIR=${WEB_DIR:-"./lib/_web"}
 ENVNAME=${ENVNAME:-staging}
 lerna clean -y
 pushd $WEB_DIR
