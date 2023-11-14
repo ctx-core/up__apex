@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+
 ## 2.1.2
 
 ### Patch Changes

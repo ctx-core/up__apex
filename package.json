@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/up__apex",
-	"version": "2.1.2",
+	"version": "2.1.3",
 	"description": "scripts to manage projects using up (https://up.docs.apex.sh/) on aws lambda or similar services",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"author": "Brian Takita",
 	"files": [
 		"*.d.ts",
+		"*.js",
 		"*.json",
 		"./bin"
 	],
