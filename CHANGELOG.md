@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.2
+
+### Patch Changes
+
+- fix: missing tsconfig.json
+
 ## 2.1.1
 
 ### Patch Changes
