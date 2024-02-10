@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.10
+
+### Patch Changes
+
+- tsx: ^4.7.0 -> ^4.7.1
+
 ## 2.1.9
 
 ### Patch Changes
