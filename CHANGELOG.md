@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.11
+
+### Patch Changes
+
+- package.json: author: url,email
+
 ## 2.1.10
 
 ### Patch Changes
