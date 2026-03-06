@@ -1,5 +1,11 @@
 # @ctx-core/up\_\_apex
 
+## 2.1.13
+
+### Patch Changes
+
+- chore: migrate scripts from pnpm to bun
+
 ## 2.1.12
 
 ### Patch Changes
